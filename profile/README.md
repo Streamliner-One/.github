@@ -2,7 +2,10 @@
 
 🌐 Website: **https://streamliner.one**
 
-AI-native tooling for operators and teams running OpenClaw in production.
+**Bringing clarity and momentum to modern teams.**
+
+We build systems that actually work.
+We turn tool chaos into an operating system your team actually uses — with automation, AI agents, SOPs, and monitoring shipped fast and maintained properly.
 
 ## Repositories
 
@@ -16,8 +19,9 @@ AI-native tooling for operators and teams running OpenClaw in production.
 curl -fsSL https://install.streamliner.one | bash
 ```
 
-## Principles
+## Focus Areas
 
-- Local-first credentials
-- Transparent validation
-- Boring, reliable deployment
+- Workflow optimization before automation
+- AI agents with human oversight
+- SOPs and knowledge systems teams actually use
+- Reliable operations with guardrails and monitoring
