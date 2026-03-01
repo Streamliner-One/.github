@@ -2,26 +2,27 @@
 
 🌐 Website: **https://streamliner.one**
 
-**Bringing clarity and momentum to modern teams.**
+**AI automation consultancy bringing clarity and momentum to modern teams.**
 
 We build systems that actually work.
-We turn tool chaos into an operating system your team actually uses — with automation, AI agents, SOPs, and monitoring shipped fast and maintained properly.
+We turn tool chaos into an operating system your team uses every day — combining workflow optimization, AI agents, SOPs, and monitoring with human oversight.
+
+## What we focus on
+
+- Workflow optimization before automation
+- AI agent operations with guardrails
+- SOP-driven execution across teams
+- Knowledge systems and internal tooling
+- Reliable deployment and monitoring patterns
 
 ## Repositories
 
-- [`install`](https://github.com/Streamliner-One/install) — universal bootstrap endpoint and release manifests.
-- [`tools-packages`](https://github.com/Streamliner-One/tools-packages) — connector catalog (GitHub, Stripe, Notion, 1Password, etc.).
-- [`tools-config-server`](https://github.com/Streamliner-One/tools-config-server) — self-hosted credentials dashboard + API.
+- [`install`](https://github.com/Streamliner-One/install) — one-line installer and release manifests.
+- [`tools-packages`](https://github.com/Streamliner-One/tools-packages) — integration packages for AI agents and workflows.
+- [`tools-config-server`](https://github.com/Streamliner-One/tools-config-server) — private control plane for credentials and integrations.
 
 ## Quick Start
 
 ```bash
 curl -fsSL https://install.streamliner.one | bash
 ```
-
-## Focus Areas
-
-- Workflow optimization before automation
-- AI agents with human oversight
-- SOPs and knowledge systems teams actually use
-- Reliable operations with guardrails and monitoring
