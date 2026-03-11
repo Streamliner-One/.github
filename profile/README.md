@@ -2,17 +2,17 @@
 
 🌐 **https://streamliner.one**
 
-**AI automation consultancy bringing clarity and momentum to modern teams.**
+**We build systems that actually work — and run a private AI assistant you can trust.**
 
-We build systems that actually work — workflow optimization, AI agents, SOPs, and monitoring with human oversight baked in.
+Workflow optimization, AI agents, SOPs, and monitoring for founder-led teams. Plus managed personal AI assistant deployments built on OpenClaw.
 
 ## What we focus on
 
 - Workflow optimization before automation
-- AI agent operations with guardrails
+- AI agents and custom integrations with guardrails
 - SOP-driven execution across teams
 - Knowledge systems and internal tooling
-- Reliable deployment and monitoring patterns
+- Managed OpenClaw deployments — private, maintained, continuously improving
 
 ## Products
 
@@ -24,4 +24,3 @@ We build systems that actually work — workflow optimization, AI agents, SOPs, 
 ```bash
 curl https://tools.streamliner.one | bash
 ```
-
